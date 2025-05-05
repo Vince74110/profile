@@ -32,7 +32,7 @@ h1, h2 {
     color: #58d68d;
 }
 #description {
-    height: 300px;
+    height: auto;
 }
 .liens {
     color: white;
